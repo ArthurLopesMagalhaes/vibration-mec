@@ -7,7 +7,7 @@ Dynamic Systems Visualization is a web application designed to simulate and visu
 - **Two Degrees of Freedom System Simulation:** Users can input initial conditions and visualize system response over time.
 - **Harmonic Excitation Simulation:** Allows users to apply harmonic forces and analyze the system's oscillatory response.
 - **Customizable Parameters:** Users can modify mass, damping, and stiffness matrices to explore different system behaviors.
-- **Graphical Visualization:** Real-time plotting of system responses with interactive graphs.
+- **Graphical Visualization:** Plotting of system responses with interactive graphs.
 
 ## Screenshots
 ![Two Degrees of Freedom](https://github.com/user-attachments/assets/d63737d0-19bd-432a-9643-f2bd19b85b06)
